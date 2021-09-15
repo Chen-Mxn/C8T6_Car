@@ -1,4 +1,7 @@
-引脚使用：
+本工程为大一参加寒假考核做的超声波避障小车。
+基于STM32F103C8T6，三轮差速转向。L298N电机驱动，SPI-OLED屏幕显示，HC-SR04超声波模块
+
+#### 引脚使用：
 led:	PB12
 usart1: 	PA9(USART1_TX), PA10(USART1_RX)
 pwm:	PA6(TIM3),  PB6(TIM4)
